@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value = "cool_weather"></dbname>
+    <version value = "1"></version>
+
+    <list>
+        <mapping class = "com.example.turbo.meweather.db.City"></mapping>
+        <mapping class = "com.example.turbo.meweather.db.Province"></mapping>
+        <mapping class = "com.example.turbo.meweather.db.County"></mapping>
+    </list>
+</litepal>
